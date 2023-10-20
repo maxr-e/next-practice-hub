@@ -1,3 +1,6 @@
+10.20.23 Max here. creat-react-app was how I was taught to start a react app. This method also includes a couple hundred Mb of dependencies that will be loaded each time user first views the app, so I've read. Using Next.js via 'create-next-app' only includes a few modules. This project is my first time using it and exploring how it works. I will be journaling my journey here and in the code comments.
+I created this app locally on my desktop. I will create a repo in github later.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
